@@ -1,5 +1,0 @@
-[32mINFO    [0m common.logger:logger.py:38 打开url: http://127.0.0.1:8080/mgr/sign.html
-[32mINFO    [0m common.logger:logger.py:38 正在向['id', 'username']中输入"byhy"
-[32mINFO    [0m common.logger:logger.py:38 正在向['id', 'password']中输入"88888888"
-[32mINFO    [0m common.logger:logger.py:38 点击元素['xpath', '//button[text()="登录"]']
-[32mINFO    [0m common.logger:logger.py:38 退出浏览器
