@@ -1,0 +1,21 @@
+
+url: "mgr/sign.html"
+elements:
+  username_box:
+    - 'id'
+    - 'username'
+  password_box:
+    - 'id'
+    - 'password'
+  submit_btn:
+    - 'xpath'
+    - '//button[text()="登录"]'
+  forgot_btn:
+    - 'xpath'
+    - '//*[contains(text(),"忘记密码")]'
+  new_account_btn:
+    - 'xpath'
+    - '//*[contains(text(),"新账号")]'
+  sign_flag:
+    - 'id'
+    - 'root'
